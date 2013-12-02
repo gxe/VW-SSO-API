@@ -11,3 +11,4 @@ $sso = new SSO($op_u, $op_p, $host);
 $sso->bind('ping');
 $sso->execute();
 var_dump($sso->response);
+
