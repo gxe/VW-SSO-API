@@ -11,7 +11,6 @@ define(MAX_BUFFER_SIZE, 2048); # Set buffer to 2048 byte maximum
 
 class SSO {
 
-
 	/*
 	 * To instantiate, user must provide their SSO username and password, which will act as the
 	 * operator account for the duration of the connection.
